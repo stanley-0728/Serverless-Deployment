@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
+    "jsonwebtoken": "^9.0.2",
     "puppeteer": "^22.8.0",
     "puppeteer-core": "^22.8.0"
   },
